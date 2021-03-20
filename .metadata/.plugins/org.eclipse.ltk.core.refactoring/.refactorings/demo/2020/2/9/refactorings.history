@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.elonik.app.ws.ui.modal.response.userRest&apos; to &apos;UserRest&apos;&#x0D;&#x0A;- Original project: &apos;demo&apos;&#x0D;&#x0A;- Original element: &apos;com.elonik.app.ws.ui.modal.response.userRest&apos;&#x0D;&#x0A;- Renamed element: &apos;com.elonik.app.ws.ui.modal.response.UserRest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;userRest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.elonik.app.ws.ui.modal.response{userRest.java[userRest" matchStrategy="1" name="UserRest" qualified="false" references="true" similarDeclarations="false" stamp="1582995498703" textual="false" version="1.0"/>
+</session>

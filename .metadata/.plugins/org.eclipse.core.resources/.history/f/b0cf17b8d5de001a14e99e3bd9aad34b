@@ -1,0 +1,32 @@
+package com.pdfgeneration.elonik.pdf.generation;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+import com.itextpdf.html2pdf.HtmlConverter;
+
+@SpringBootApplication
+public class ElonikPdfGenerationApplication {
+
+	public static void main(String[] args) {
+		//SpringApplication.run(ElonikPdfGenerationApplication.class, args);
+		try {
+			HtmlConverter.convertToPdf(new FileInputStream("NewFile.html"), 
+			        new FileOutputStream("index-to-pdf.pdf"));
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	        System.out.println( "PDF Created!" );
+	}
+
+}

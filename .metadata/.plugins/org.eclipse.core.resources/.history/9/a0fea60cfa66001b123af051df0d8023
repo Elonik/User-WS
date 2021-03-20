@@ -1,0 +1,5 @@
+package com.elonik.app.ws.api.account.ui.controller;
+
+public class AccountController {
+
+}

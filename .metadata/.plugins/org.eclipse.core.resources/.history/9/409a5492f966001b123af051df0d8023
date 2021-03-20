@@ -1,0 +1,13 @@
+package com.elonik.app.ws;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ElonikLightsWs1AccountManageApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ElonikLightsWs1AccountManageApplication.class, args);
+	}
+
+}

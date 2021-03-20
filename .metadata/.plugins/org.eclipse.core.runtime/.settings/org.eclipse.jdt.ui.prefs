@@ -1,0 +1,15 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.elonik.app.ws.shared.dto.UserDto"><rhs name\="com.elonik.app.ws.shared.dto.UserDto"/></lhs><lhs name\="java.util.Random"><rhs name\="java.security.SecureRandom"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="java.lang.AbstractStringBuilder"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="java.lang.Appendable"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="java.lang.Enum"><rhs name\="org.springframework.http.HttpMethod"/><rhs name\="io.jsonwebtoken.SignatureAlgorithm"/><rhs name\="org.springframework.security.config.http.SessionCreationPolicy"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.security.Principal"><rhs name\="org.springframework.security.authentication.UsernamePasswordAuthenticationToken"/></lhs><lhs name\="org.springframework.security.core.Authentication"><rhs name\="org.springframework.security.authentication.UsernamePasswordAuthenticationToken"/></lhs><lhs name\="javax.servlet.Filter"><rhs name\="org.springframework.security.web.authentication.AuthenticationFilter"/></lhs><lhs name\="com.elonik.app.ws.security.AppProperties"><rhs name\="com.elonik.app.ws.security.AppProperties"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.lang.Long"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=16
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
