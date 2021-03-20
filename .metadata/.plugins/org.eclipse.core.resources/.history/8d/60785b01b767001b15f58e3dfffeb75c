@@ -1,5 +1,0 @@
-server.port=8181
-spring.application.name=elonikservice
-eureka.instance.prefer-ip-address=true
-eureka.client.register-with-eureka=false
-eureka.client.fetch-registry=false

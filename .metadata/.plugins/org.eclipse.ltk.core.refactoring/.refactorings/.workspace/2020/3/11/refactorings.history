@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete 6 resources" deleteContents="false" description="Delete 6 resources" element1="/oauth" element2="/services" element3="/social" element4="/rest" element5="/web" element6="/hateoas" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="6" stamp="1584165816812"/>&#x0A;<refactoring comment="Delete resource &apos;the-spring-rest-stack-master&apos;" deleteContents="false" description="Delete resource &apos;the-spring-rest-stack-master&apos;" element1="/the-spring-rest-stack-master" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1584165826984"/>
-</session>
