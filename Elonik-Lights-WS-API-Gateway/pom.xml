@@ -12,6 +12,7 @@
 	<groupId>com.elonik.app.ws.lights.gateway</groupId>
 	<artifactId>mobile-app-ws-api-gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>Elonik-Lights-WS-API-Gateway</name>
 	<description>API Gateway</description>
 	<properties>
