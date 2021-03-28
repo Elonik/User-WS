@@ -12,7 +12,8 @@
 	<groupId>com.elonik.app.ws.lights.account</groupId>
 	<artifactId>mobile-app-ws-account-management</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Elonik-Lights-WS-1-Account-Manage</name>
+	<packaging>war</packaging>
+	<name>Elonik-Lights-WS-1-Account-Manage</name>	  
 	<description>Micro Service Account  Management</description>
 	<properties>
 		<java.version>1.8</java.version>
