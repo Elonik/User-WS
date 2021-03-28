@@ -11,6 +11,7 @@
 	<groupId>com.elonik.app.ws</groupId>
 	<artifactId>mobile-app-ws</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>  
 	<name>Elonik-Lights-Eureka-Server</name>
 	<description>Eureka server</description>
 	<properties>
